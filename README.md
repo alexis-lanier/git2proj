@@ -1,2 +1,1 @@
-# git2proj
-CS3560 In Class activity
+AL628814
